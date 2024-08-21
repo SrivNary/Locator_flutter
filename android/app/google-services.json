@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "770460880080",
+    "project_id": "numnivagation",
+    "storage_bucket": "numnivagation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770460880080:android:789f9101bfa74feb0462d5",
+        "android_client_info": {
+          "package_name": "com.example.numnavigation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLS_crIpt9hpvuZE52Pz7gHmWrvxwGKo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
